@@ -14,4 +14,7 @@ Repository Links:
    
 2. Improving Systems for Connecting Rough Sleepers to Services Through Prioritisation of Alerts:
    https://github.com/alan-turing-institute/DSSG19-HomelessLink-PUBLIC
- 
+   
+3. Detecting Fraud, Corruption, and Collusion in International Development Contracts: The Design of a Proof-of-Concept Automated System:  
+   http://www.dssgfellowship.org/wp-content/uploads/2016/12/world_bank_fraud.pdf
+
