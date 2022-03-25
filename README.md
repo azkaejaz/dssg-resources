@@ -7,6 +7,11 @@ https://aiforsocialgood.github.io/2018/pdfs/track1/34_aisg_neurips2018.pdf
 2. A recommendation and risk classification system for connecting rough sleepers to essential outreach services:
 https://www.cambridge.org/core/journals/data-and-policy/article/recommendation-and-risk-classification-system-for-connecting-rough-sleepers-to-essential-outreach-services/55E067F857ED9F1592EF1A0B3CE1E286
 
+3. Detecting Fraud, Corruption, and Collusion in International Development Contracts: The Design of a Proof-of-Concept Automated System:  
+   http://www.dssgfellowship.org/wp-content/uploads/2016/12/world_bank_fraud.pdf
+
+
+
 
 Repository Links: 
 1. Improving Traffic Safety through (Traffic) Video Analysis:
@@ -15,6 +20,5 @@ Repository Links:
 2. Improving Systems for Connecting Rough Sleepers to Services Through Prioritisation of Alerts:
    https://github.com/alan-turing-institute/DSSG19-HomelessLink-PUBLIC
    
-3. Detecting Fraud, Corruption, and Collusion in International Development Contracts: The Design of a Proof-of-Concept Automated System:  
-   http://www.dssgfellowship.org/wp-content/uploads/2016/12/world_bank_fraud.pdf
+
 
