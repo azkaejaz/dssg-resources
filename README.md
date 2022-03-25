@@ -7,3 +7,9 @@ https://www.cambridge.org/core/journals/data-and-policy/article/recommendation-a
 
 
 Repository Links: 
+1. Improving Traffic Safety through (Traffic) Video Analysis:
+   https://github.com/dssg/jakarta_smart_city_traffic_safety_public
+   
+2. Improving Systems for Connecting Rough Sleepers to Services Through Prioritisation of Alerts:
+   https://github.com/alan-turing-institute/DSSG19-HomelessLink-PUBLIC
+ 
